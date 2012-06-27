@@ -60,6 +60,7 @@ I18n::lang('en-us');
  *
  * Note: If you supply an invalid environment name, a PHP warning will be thrown
  * saying "Couldn't find constant Kohana::<INVALID_ENV_NAME>"
+ // hello
  */
 if (isset($_SERVER['KOHANA_ENV']))
 {
